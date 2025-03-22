@@ -70,3 +70,8 @@ Người sử dụng truy cập theo đường dẫn _http://localhost:8069/_ đ
 
 Hoàn tất
     
+# 5. Hình ảnh minh họa
+
+Dưới đây là hình ảnh minh họa về hệ thống:  
+
+![Poster Nhóm 10](Posternhom10.jpg)
